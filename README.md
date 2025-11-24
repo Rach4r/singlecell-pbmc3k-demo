@@ -30,7 +30,7 @@ download the PBMC 3k filtered matrix from 10x Genomics and place it under
 
 You can install the required packages with:
 
-```r
+
 install.packages(c("Seurat", "dplyr", "ggplot2", "patchwork"))
 
 ## Analysis overview
