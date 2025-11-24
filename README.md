@@ -110,4 +110,4 @@ Save figures under figures/ and the marker table as pbmc3k_markers.csv.
 ## Acknowledgements
 The analysis steps in this repository are inspired by the official
 Seurat PBMC 3k guided clustering tutorial and adapted for my own
-learning and use in job applications.
+learning.
